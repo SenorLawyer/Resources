@@ -1,7 +1,7 @@
-https://github.com/codecrafters-io/build-your-own-x\n
-https://proxmox.com/en/proxmox-virtual-environment/overview\n
-https://www.gradientmagic.com/\n
-https://doc.rust-lang.org/stable/book/\n
+https://github.com/codecrafters-io/build-your-own-x
+https://proxmox.com/en/proxmox-virtual-environment/overview
+https://www.gradientmagic.com/
+https://doc.rust-lang.org/stable/book/
 https://github.com/quadratichq/quadratic/
 https://nohello.net
 https://yew.rs/docs/next/tutorial
