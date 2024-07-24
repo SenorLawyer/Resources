@@ -85,6 +85,7 @@ A curated list of amazing resources for developers and designers.
 
 
 ## Code Snippets
+### Leave all groups
 ```js
 import noblox from "noblox.js";
 
