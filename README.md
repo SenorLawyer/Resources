@@ -80,3 +80,44 @@ A curated list of amazing resources for developers and designers.
 - [Controlling Scrollback Size in WezTerm](https://wezfurlong.org/wezterm/scrollback.html#controlling-the-scrollback-size)
 - [Interactive Guide to Grid by Josh W. Comeau](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
 - [React Spinners](https://www.davidhu.io/react-spinners/)
+
+
+
+
+## Code Snippets
+```js
+import noblox from "noblox.js";
+
+const cookie: string = "";
+
+async function LeaveGroups() {
+  const currentUser = await noblox.setCookie(cookie);
+  console.log(`Logged in as ${currentUser.UserName} [${currentUser.UserID}]`);
+
+  let groups = await noblox.getGroups(1988525073);
+  groups = groups.filter(
+    (group) =>
+      group.Id !== 17216028 &&
+      group.Id !== 7586320 &&
+      group.Id !== 7962297 &&
+      group.Id !== 15774327 &&
+      group.Id !== 32380007 &&
+      group.Id !== 2627479 &&
+      group.Id !== 2627480
+  );
+
+  await noblox.setCookie(cookie);
+
+  while (groups.length > 0) {
+    const group = groups.shift();
+    console.log(`Leaving group ${group?.Name} [${group?.Id}]`);
+
+    await noblox.leaveGroup(group!.Id);
+  }
+}
+
+LeaveGroups();
+```
+
+
+
