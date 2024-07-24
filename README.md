@@ -5,6 +5,7 @@ A curated list of amazing resources for developers and designers.
 ## Table of Contents
 
 - [Developer Tools](#developer-tools)
+- [Studio Tools](#studio-tools)
 - [Design Tools](#design-tools)
 - [Web Development](#web-development)
 - [Programming Languages](#programming-languages)
@@ -24,6 +25,9 @@ A curated list of amazing resources for developers and designers.
 - [Videomass](https://github.com/jeanslack/Videomass)
 - [Trayer-srg](https://github.com/sargon/trayer-srg)
 - [Vesktop](https://github.com/Vencord/Vesktop)
+
+## Studio Tools
+- [UIStrokeAdjuster](https://devforum.roblox.com/t/uistrokeadjuster-properly-scale-your-uistrokes/1889014)
 
 ## Design Tools
 
