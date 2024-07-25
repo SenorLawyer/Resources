@@ -90,12 +90,13 @@ A curated list of amazing resources for developers and designers.
 import noblox from "noblox.js";
 
 const cookie: string = "";
+const userId: number = 1988525073;
 
 async function LeaveGroups() {
   const currentUser = await noblox.setCookie(cookie);
   console.log(`Logged in as ${currentUser.UserName} [${currentUser.UserID}]`);
 
-  let groups = await noblox.getGroups(1988525073);
+  let groups = await noblox.getGroups(userId);
   groups = groups.filter(
     (group) =>
       group.Id !== 17216028 &&
