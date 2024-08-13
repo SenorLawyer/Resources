@@ -13,7 +13,7 @@ A curated list of amazing resources for developers and designers.
 - [Learning and Tutorials](#learning-and-tutorials)
 - [Networking](#networking)
 
-- [test2](#test2)
+
 - [test](#test)
 
 ## Developer Tools
@@ -125,11 +125,6 @@ LeaveGroups();
 ## Networking
 
 - [OPNSense](https://opnsense.org/)
-
-## test2
-
-- [proxmox](test)
-
 
 ## test
 
