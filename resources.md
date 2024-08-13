@@ -126,5 +126,5 @@ LeaveGroups();
 
 ## OS
 
-- [Proxmox](https://www.proxmox.org/en))
+- [Proxmox](https://www.proxmox.org/en)
 - [Monkey](https://roblox.com)
