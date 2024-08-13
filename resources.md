@@ -12,6 +12,7 @@ A curated list of amazing resources for developers and designers.
 - [UI Libraries](#ui-libraries)
 - [Learning and Tutorials](#learning-and-tutorials)
 - [Networking](#networking)
+- [OS](#os)
 
 ## Developer Tools
 
@@ -122,3 +123,7 @@ LeaveGroups();
 ## Networking
 
 - [OPNSense](https://opnsense.org/)
+
+## OS
+
+- [Proxmox](https://www.proxmox.org/en)
