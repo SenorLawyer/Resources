@@ -14,7 +14,6 @@ A curated list of amazing resources for developers and designers.
 - [Networking](#networking)
 
 
-- [test](#test)
 
 ## Developer Tools
 
@@ -125,7 +124,3 @@ LeaveGroups();
 ## Networking
 
 - [OPNSense](https://opnsense.org/)
-
-## test
-
-- [test](test)
