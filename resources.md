@@ -12,7 +12,7 @@ A curated list of amazing resources for developers and designers.
 - [UI Libraries](#ui-libraries)
 - [Learning and Tutorials](#learning-and-tutorials)
 - [Networking](#networking)
-- [test](#test)
+
 - [test2](#test2)
 
 ## Developer Tools
@@ -125,9 +125,6 @@ LeaveGroups();
 
 - [OPNSense](https://opnsense.org/)
 
-## test
-
-- [test](https://ape.com)
 ## test2
 
 - [test2](https://roblox.com)
