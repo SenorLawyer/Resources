@@ -126,4 +126,4 @@ LeaveGroups();
 
 ## OS
 
-- [Proxmox](https://www.proxmox.org/en)
+- [Proxmox](https://discord.com))
