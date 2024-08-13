@@ -127,7 +127,6 @@ LeaveGroups();
 
 ## test
 
-- [test](https://discord.com)
 - [test](https://ape.com)
 ## test2
 
