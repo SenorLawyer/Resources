@@ -59,6 +59,9 @@ A curated list of amazing resources for developers and designers.
 - [Recommended Screen Resolution for Web Design](https://thewhitelabelagency.com/recommended-screen-resolution-for-web-design/)
 - [React Icons](https://react-icons.github.io/react-icons/)
 
+
+- [test](test)
+
 ## Programming Languages
 
 - [Rust Book](https://doc.rust-lang.org/stable/book/)
