@@ -59,9 +59,6 @@ A curated list of amazing resources for developers and designers.
 - [Recommended Screen Resolution for Web Design](https://thewhitelabelagency.com/recommended-screen-resolution-for-web-design/)
 - [React Icons](https://react-icons.github.io/react-icons/)
 
-
-
-
 ## Programming Languages
 
 - [Rust Book](https://doc.rust-lang.org/stable/book/)
@@ -76,8 +73,6 @@ A curated list of amazing resources for developers and designers.
 - [React Spectrum](https://react-spectrum.adobe.com/react-aria/getting-started.html)
 - [MUI Core](https://mui.com/core/)
 - [Aceternity UI](https://ui.aceternity.com/)
-
-
 - [DaisyUI](https://daisyui.com)
 
 ## Learning and Tutorials
