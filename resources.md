@@ -57,7 +57,6 @@ A curated list of amazing resources for developers and designers.
 - [Interactive Guide to Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
 - [Pandoc](https://pandoc.org/installing.html)
 - [Recommended Screen Resolution for Web Design](https://thewhitelabelagency.com/recommended-screen-resolution-for-web-design/)
-- [DaisyUI](https://daisyui.com/)
 - [React Icons](https://react-icons.github.io/react-icons/)
 
 ## Programming Languages
