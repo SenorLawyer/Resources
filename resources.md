@@ -60,7 +60,7 @@ A curated list of amazing resources for developers and designers.
 - [React Icons](https://react-icons.github.io/react-icons/)
 
 
-- [test](test)
+
 
 ## Programming Languages
 
