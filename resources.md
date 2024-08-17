@@ -74,6 +74,9 @@ A curated list of amazing resources for developers and designers.
 - [MUI Core](https://mui.com/core/)
 - [Aceternity UI](https://ui.aceternity.com/)
 
+
+- [DaisyUI](https://daisyui.com)
+
 ## Learning and Tutorials
 
 - [React-Redux Audio Playing](https://stackoverflow.com/questions/42695145/how-to-handle-audio-playing-in-react-redux)
